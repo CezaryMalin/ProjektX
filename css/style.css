@@ -1,0 +1,36 @@
+header {
+  height: 400px;
+  opacity: 0.8;
+  background-size: cover;
+  background-image: url("https://images.pexels.com/photos/19031635/pexels-photo-19031635/free-photo-of-drewno-jasny-krajobraz-lato.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 900;
+  padding: 20px;
+  float: left;
+}
+
+.menu {
+  float: left;
+  text-align: right;
+  padding: 20px;
+}
+
+.centered {
+  text-align: center;
+}
+
+h2 {
+  clear: both;
+  padding-top: 100px;
+}
+
+.menu > a {
+  font-size: 20px;
+  font-weight: 900;
+  margin-right: 20px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGFBQUE7RUFDQSxZQUFBO0VBQ0Esc0JBQUE7RUFDQSxvTEFBQTtBQ0NKOztBREVBO0VBQ0ksZUFBQTtFQUNBLGdCQUFBO0VBQ0EsYUFBQTtFQUNBLFdBQUE7QUNDSjs7QURFQTtFQUNJLFdBQUE7RUFDQSxpQkFBQTtFQUNBLGFBQUE7QUNDSjs7QURHQTtFQUNJLGtCQUFBO0FDQUo7O0FERUE7RUFDRyxXQUFBO0VBQ0Esa0JBQUE7QUNDSDs7QURHQTtFQUNJLGVBQUE7RUFDQSxnQkFBQTtFQUNBLGtCQUFBO0FDQUoiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
